@@ -20,6 +20,13 @@ Hardware/Networking: PLC, CCNA, Siemens Drives (V20, V90, G120)
 
 ---
 
+### 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,github,postman,vscode,tailwind" />
+</p>
+
+---
+
 ### 💼 Experience
 - **Web Developer Trainee @ Team Vault (2024–Present)**  
   ⚡ Improved SEO, mobile usability (+25%) & reduced load time by 40% using Next.js SSR  
