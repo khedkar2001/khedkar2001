@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3BA9F7&center=true&vCenter=true&width=600&lines=Web+Developer+💻;Tech+Explorer+🚀;Problem+Solver+🧩;Lifelong+Learner+🌱" alt="Typing SVG" />
   </a>
 </p>
-<h3 align="center">| Pune, MH, India|</h3>
+<h3 align="center">| Pune, MH, India |</h3>
 
 ---
 
