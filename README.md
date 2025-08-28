@@ -1,4 +1,10 @@
 <h1 align="center">Hi 👋, I'm Saurabh Khedkar</h1>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3BA9F7&center=true&vCenter=true&width=600&lines=Web+Developer+💻;Tech+Explorer+🚀;Problem+Solver+🧩;Lifelong+Learner+🌱" alt="Typing SVG" />
+  </a>
+</p>
 <h3 align="center">Full Stack Web Developer | Pune, India</h3>
 
 ---
@@ -22,7 +28,7 @@ Hardware/Networking: PLC, CCNA, Siemens Drives (V20, V90, G120)
 
 ### 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,github,postman,vscode,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,nextjs,mongodb,mysql,git,github,postman,vscode,tailwind" />
 </p>
 
 ---
@@ -50,3 +56,4 @@ Hardware/Networking: PLC, CCNA, Siemens Drives (V20, V90, G120)
 🐙 [GitHub](https://github.com/khedkar2001)  
 
 ---
+⭐ *"Code is like humor. When you have to explain it, it’s bad."*
